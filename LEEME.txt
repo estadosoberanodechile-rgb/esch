@@ -1,0 +1,16 @@
+ESCh — Defensa / Grupo Wulfslair
+
+1. Extrae el ZIP (clic derecho > Extraer todo en Windows).
+2. Copia defensa.html, defensa.css y la carpeta assets dentro de tu carpeta esch-web.
+3. Abre defensa.html con doble clic.
+4. No reemplaces tu index.html ni tu style.css: esta página usa defensa.css.
+5. Para entrar desde la portada, cambia su enlace de Fuerzas Armadas a:
+   <a href="defensa.html">Fuerzas Armadas</a>
+
+Los enlaces de la página interna llevan a apartados existentes. Inicio vuelve a tu index.html original.
+Esta entrega no publica el sitio, no recibe solicitudes y no incluye un portal privado del Alto Mando.
+Las otras páginas y las biografías se desarrollarán por separado.
+Falta confirmar el dominio y las direcciones oficiales de Discord y Roblox.
+
+El logo dorado transparente se adaptó con imagegen a partir del logo proporcionado.
+Instrucción de edición: conservar círculos, silueta y texto WulfSlair; retirar fondo blanco y recolorear a dorado #C3A66A.
